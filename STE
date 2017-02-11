@@ -34,5 +34,10 @@
     NXT
     'Y' STO
 
+    'H' RCL
+    'X' RCL
+    +
+    'X' STO
+
 
 \>>
