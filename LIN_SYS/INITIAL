@@ -1,0 +1,9 @@
+\<<
+   \-> x y z 
+    \<<
+        x 'X1' STO
+        y 'X2' STO
+        z 'X3' STO
+        1 'I'  STO
+    \>>
+\>>

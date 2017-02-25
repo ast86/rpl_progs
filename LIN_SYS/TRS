@@ -1,0 +1,12 @@
+\<<
+    \-> A B 
+    \<<
+        % compute A_T*A
+        A TRAN 
+        A * 
+        
+        % compute A_T*b
+        A TRAN 
+        B *
+    \>>
+\>>

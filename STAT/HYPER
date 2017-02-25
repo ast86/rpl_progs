@@ -1,0 +1,4 @@
+\<<
+    \-> K M N n 'COMB(M,K)*COMB(N-M,n-K)/COMB(N,n)'
+
+\>>

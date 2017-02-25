@@ -1,0 +1,6 @@
+\<<
+    X1 X2 X3 VSIZE
+    X1S X2S X3S VSIZE
+    - % subtract vector x_i from x_(i-1) 
+    ABS % and compute its absolute value
+\>>
